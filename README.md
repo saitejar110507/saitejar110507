@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🔭 I’m currently working on:<br>Building my Portfolio Web Page and working on web-based projects.<br><br>👯 I’m looking to collaborate on:<br>Web development projects and anything related to software solutions.<br><br>🌱 I’m currently learning:<br>Java, SQL, and enhancing my skills in JavaScript.<br><br>💬 Ask me about:<br>Web development, AI, or the latest emerging technologies.<br><br>⚡ Fun fact:<br>I love making stuff in computers.
+🔭 I’m currently working on:<br>Web-based projects.<br><br>👯 I’m looking to collaborate on:<br>Web development projects and anything related to software solutions.<br><br>🌱 I’m currently learning:<br>Java, SQL, and enhancing my skills in JavaScript.<br><br>💬 Ask me about:<br>Web development, AI, or the latest emerging technologies.<br><br>⚡ Fun fact:<br>I love making stuff in computers.
 
 
 ## 🌐 Socials:
