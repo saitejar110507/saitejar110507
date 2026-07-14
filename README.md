@@ -1,3 +1,4 @@
+```markdown
 # Hi there 👋, I'm SAI TEJA RACHAMALLA
 
 ### Software Developer • Full Stack Web Developer • AI Enthusiast • Java Learner
@@ -302,3 +303,4 @@ I'm always happy to receive feedback, collaborate on exciting ideas, and contrib
 ### ✨ *"Code with purpose. Learn without limits. Build for impact."*
 
 </div>
+```
