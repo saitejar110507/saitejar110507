@@ -245,8 +245,7 @@ I believe in:
 
 # 🐍 Contribution Snake
 
-![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://raw.githubusercontent.com/saitejar110507/saitejar110507/output/github-contribution-grid-snake.svg)
 ---
 
 # 📫 Connect With Me
@@ -263,20 +262,6 @@ I believe in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saitejar0101/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/satejar110507)
-
----
-
-# 🎯 Goals for 2026
-
-- Contribute consistently to Open Source
-- Build production-ready Full Stack applications
-- Master Java Backend Development
-- Learn Spring Boot
-- Improve System Design knowledge
-- Strengthen DSA skills
-- Explore AI-powered software development
-- Publish technical blogs and tutorials
-- Collaborate with developers worldwide
 
 ---
 
