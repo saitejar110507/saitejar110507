@@ -282,7 +282,7 @@ I believe in:
 
 # 📈 Profile Views
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge)
+![](https://komarev.com/ghpvc/?username=saitejar110507&style=for-the-badge)
 
 ---
 
